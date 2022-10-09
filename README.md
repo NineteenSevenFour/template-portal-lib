@@ -64,9 +64,7 @@ Once the component has been added, ensure to add it to the `declaration` and `ex
 
 ## **Setup Pre-commit validation**
 
-While working alone or in a team, it is good practice to setup pre-commit validation of the code and commit message. This ensure that your project has constant buildable codebase and consistant commit.
-
-[CGit Hooks](https://github.com/NineteenSevenFour/template-portal-lib/blob/main/CGITHOOKD.md)
+While working alone or in a team, it is good practice to setup pre-commit validation of the code and commit message. This ensure that your project has constant buildable codebase and consistant commit. The [CGit Hooks](https://github.com/NineteenSevenFour/template-portal-lib/blob/main/GITHOOK.md) guide will help you to set that up.
 
 ## **Setup CI / CD**
 
